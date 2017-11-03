@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914684647950",
+    "firebase_url": "https://omoney-6de06.firebaseio.com",
+    "project_id": "omoney-6de06",
+    "storage_bucket": "omoney-6de06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914684647950:android:27682bd2c6e4335f",
+        "android_client_info": {
+          "package_name": "in.co.onetwork.omoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914684647950-vst4hqr0rofubm5k3i3i5ej0bos4ob3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.onetwork.omoney",
+            "certificate_hash": "4f671b88b4e4b5d3aa4a236e0bf53ab000013767"
+          }
+        },
+        {
+          "client_id": "914684647950-ph6qruf7m8dqpc75chc0p9g68pufqc2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAnupOpuONuDdxG4YBIq9RtfYiFSC-Pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914684647950-ph6qruf7m8dqpc75chc0p9g68pufqc2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
